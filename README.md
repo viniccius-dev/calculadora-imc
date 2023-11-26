@@ -2,7 +2,7 @@
 
 
 
-![App Screenshot](https://raw.githubusercontent.com/viniccius-dev/portfolio/main/images/app-calculadora-icm.PNG?token=GHSAT0AAAAAACKZQ45XXXVBF45SUAHZHSAEZLDUWQA)
+![app-calculadora-icm](https://github.com/viniccius-dev/calculadora-imc/assets/109040394/0c8a4acf-271c-4309-a989-b3e2924f88f2)
 
 
 ![Data Release](https://img.shields.io/badge/data_release-november/23-yellow.svg)
