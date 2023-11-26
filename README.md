@@ -5,7 +5,7 @@
 ![app-calculadora-icm](https://github.com/viniccius-dev/calculadora-imc/assets/109040394/0c8a4acf-271c-4309-a989-b3e2924f88f2)
 
 
-![Data Release](https://img.shields.io/badge/data_release-november/23-yellow.svg)
+![Date Release](https://img.shields.io/badge/date_release-november/23-yellow.svg)
 
 ## Descrição do projeto
 
